@@ -1,2 +1,2 @@
 # test-demo
-this is a demo
+this is a demo for git and  git hubclass.
